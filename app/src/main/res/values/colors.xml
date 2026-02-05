@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+
+    <!-- Акцентные цвета -->
+    <color name="accent">#FF4081</color>
+    <color name="accent_dark">#F50057</color>
+
+    <!-- Текст -->
+    <color name="text_primary">#212121</color>    <!-- Темный текст -->
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_white">#FFFFFF</color>      <!-- Белый текст -->
+
+    <!-- Фоны -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#F5F5F5</color>
+
+    <!-- Зеленые цвета -->
+    <color name="green_dark">#1B5E20</color>      <!-- Темно-зеленый -->
+    <color name="green_medium">#2E7D32</color>    <!-- Средне-зеленый -->
+    <color name="green_light">#4CAF50</color>     <!-- Светло-зеленый -->
+
+    <!-- Иконки -->
+    <color name="icon_tint">#2196F3</color>
+
+    <!-- Дополнительные -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#9E9E9E</color>
+</resources>

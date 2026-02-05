@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Визитная карточка</string>
+    <string name="full_name">Климов Данил</string>
+    <string name="position">Мобильный разработчик</string>
+    <string name="group">Группа: Б23-191-1зу</string>
+    <string name="course">Курс: 3</string>
+    <string name="phone">+7 (999) 123-45-67</string>
+    <string name="email">klim20112001@mail.ru</string>
+    <string name="telegram">@lonelydepress</string>
+    <string name="contact_info">Контактная информация</string>
+</resources>
